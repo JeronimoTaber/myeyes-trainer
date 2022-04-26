@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'billetera'
+}
+
+item {
+    id: 2
+    name: 'lente'
+}
+
+item {
+    id: 3
+    name: 'llave'
+}

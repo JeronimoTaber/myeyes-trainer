@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>llave.a5194afb-ad3c-11ec-b949-bf64caed2cc3.jpg</filename>
+	<path>/home/jeronimo/Final-AI/tutorial/customTF2/data/images/llave.a5194afb-ad3c-11ec-b949-bf64caed2cc3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>llave</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>800</xmin>
+			<ymin>909</ymin>
+			<xmax>2854</xmax>
+			<ymax>2449</ymax>
+		</bndbox>
+	</object>
+</annotation>

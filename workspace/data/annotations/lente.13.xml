@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>lente.13.jpg</filename>
+	<path>/home/jeronimo/Final-AI/tutorial/customTF2/data/images/lente.13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lente</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>214</ymin>
+			<xmax>381</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

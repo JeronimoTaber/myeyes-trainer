@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>billetera.20220422_175104.jpg</filename>
+	<path>/home/jeronimo/Final-AI/tutorial/customTF2/data/images/billetera.20220422_175104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>billetera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>982</xmin>
+			<ymin>790</ymin>
+			<xmax>3004</xmax>
+			<ymax>2031</ymax>
+		</bndbox>
+	</object>
+</annotation>
